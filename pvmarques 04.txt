@@ -1,0 +1,11 @@
+leia nome
+leia endereco
+leia cidade
+leia cpf
+leia rg
+leia idade
+leia nomeDoPai
+leia nomeDaMae
+leia peso
+leia rendaBruta
+
