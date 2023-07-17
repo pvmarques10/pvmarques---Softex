@@ -1,0 +1,38 @@
+1-
+
+nome - caractere
+cpf = inteiro
+rg = inteiro
+altura = decimal
+endereco = caractere
+
+
+2-
+
+
+escreva = ("Digite o seu nome: ")
+
+escreva = ("Digite o seu CPF: ")
+
+escreva = ("Digite o seu RG: ")
+
+escreva = ("Digite a sua altura: ")
+
+escreva = ("Digite o seu endereço: ")
+
+
+3-
+
+nome = "José Almeida da Silva";
+cpf = "12345678900";
+rg = 9517530;
+altura = 1.78;
+endereco = "Endereço: Rua A, 380 – Centro – Recife/PE"
+
+
+
+
+
+
+
+
