@@ -1,0 +1,4 @@
+Cada linha ou coluna, mantinham as quantidades de 4x2. Revezando entre si.
+A partir da troca, a quarta e quinta linha, passaram a ter três alunos de cada matéria.
+A respeito das colunas, foi a forma como ele conseguiu saber as posições.
+Onde a terceira coluna passou a ter 5 alunos de matemática e 1 de português. E a quinta coluna ficou dividida em 3x3 alunos de cada matéria.
