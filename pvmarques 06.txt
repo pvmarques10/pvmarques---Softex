@@ -1,0 +1,8 @@
+É terrestre? Sim.
+Tem 2 rodas? Sim
+Usa gasolina? Sim
+Então, o transporte escolhido foi a MOTO.
+Precisa pedalar? Sim
+Então, o transporte escolhido foi a BICICLETA.
+É pesado? Sim.
+Então, o transporte escolhido foi o TRATOR.
