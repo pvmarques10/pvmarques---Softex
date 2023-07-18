@@ -1,0 +1,22 @@
+algoritmo "tabuada235"
+
+
+var
+n, cont: inteiro
+
+	escreval ("que tabuada você quer resolver, 2, 3 ou 5?");
+	leia (n)
+	
+
+		para 2 <- 1 ate 10 faca
+		escreval (n, " x ", cont, "=", n*cont)
+
+		para 3 <- 1 ate 10 faca
+		escreval (n, " x ", cont, "=", n*cont)
+
+		para 5 <- 1 ate 10 faca
+		escreval (n, " x ", cont, "=", n*cont)
+
+	
+
+fimalgoritmo
